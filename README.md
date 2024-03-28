@@ -2,7 +2,7 @@
 I'm Dan, aka dlew on the internet.
 
 ## Socials
-- [X / twitter](https://www.twitter.com/dleww)
+- [X / Twitter](https://www.twitter.com/dleww)
 - [YouTube](https://www.youtube.com/@dlewdev)
 - [My website](http://www.dlew.is)
 
